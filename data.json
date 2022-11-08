@@ -1,0 +1,26 @@
+[
+    {
+        "image": "",
+        "sName": "Teth Scalling 1",
+        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
+        "rating": 4.5
+    },
+    {
+        "image": "",
+        "sName": "Teth Scalling 2",
+        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
+        "rating": 5
+    },
+    {
+        "image": "",
+        "sName": "Teth Scalling 3",
+        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
+        "rating": 4
+    },
+    {
+        "image": "",
+        "sName": "Teth Scalling 4",
+        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
+        "rating": 3.5
+    }
+]

@@ -10,6 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 
+
 // console.log(process.env.DB_USER);
 // console.log(process.env.DB_PASSWORD);
 
@@ -21,15 +22,24 @@ async function run() {
     try {
         //---------------
         const userCollection = client.db('oralCare').collection('blogs');
+        const services = client.db('oralCare').collection('services');
+
         //---------------
         app.get('/blogs', async (req, res) => {
             const query = {};
             const cursor = userCollection.find(query);
             const blogs = await cursor.toArray();
             res.send(blogs);
-            console.log(blogs)
+            // console.log(blogs)
         });
         //---------------
+        app.get('/services', async (req, res) => {
+            const query2 = {};
+            const cursor2 = services.find(query2);
+            const allServices = await cursor2.toArray();
+            res.send(allServices);
+            // console.log(allServices)
+        });
         //---------------
         //---------------
         //---------------
@@ -45,10 +55,11 @@ run().catch(error => console.log(error));
 
 
 
-
 app.get('/', (req, res) => {
     res.send('genius car server is running')
 })
+
+
 
 app.listen(port, () => {
     console.log(`Server running on ${port}`);
