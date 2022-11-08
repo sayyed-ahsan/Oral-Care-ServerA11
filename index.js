@@ -17,6 +17,31 @@ app.use(express.json());
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.l0zxzgu.mongodb.net/?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 
+async function run() {
+    try {
+        //---------------
+        const userCollection = client.db('oralCare').collection('blogs');
+        //---------------
+        app.get('/blogs', async (req, res) => {
+            const query = {};
+            const cursor = userCollection.find(query);
+            const blogs = await cursor.toArray();
+            res.send(blogs);
+            console.log(blogs)
+        });
+        //---------------
+        //---------------
+        //---------------
+        //---------------
+    }
+
+    finally {
+
+    }
+}
+
+run().catch(error => console.log(error));
+
 
 
 
