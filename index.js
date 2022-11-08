@@ -40,15 +40,7 @@ async function run() {
             res.send(allServices);
             // console.log(allServices)
         });
-        //---------------
-        app.get('/services', async (req, res) => {
-            const query2 = {};
-            const cursor2 = services.find(query2);
-            const allServices = await cursor2.toArray();
-            res.send(allServices);
-            // console.log(allServices)
-        });
-        //---------------
+
         //---------------
         //---------------
     }
