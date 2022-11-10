@@ -143,7 +143,6 @@ async function run() {
             res.send(user);
         })
         //--------------
-
         app.put('/edit/:id', async (req, res) => {
             const id = req.params.id;
             const filter = { _id: ObjectId(id) };
@@ -187,6 +186,11 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Server running on ${port}`);
 })
+
+
+
+
+
 
 
 
