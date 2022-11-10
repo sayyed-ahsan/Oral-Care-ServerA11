@@ -179,7 +179,7 @@ run().catch(error => console.log(error));
 
 
 app.get('/', (req, res) => {
-    res.send('genius car server is running')
+    res.send('Oral care server running')
 })
 
 
