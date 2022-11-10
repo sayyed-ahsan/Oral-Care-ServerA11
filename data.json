@@ -1,62 +1,44 @@
 [
     {
-        "image": "https://ibb.co/YBMPjkm",
-        "sName": "Teth Scalling 1",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 4.5
+        "image": "https://i.ibb.co/ypMvmdT/4.png",
+        "sName": "Teth Cover Cape",
+        "description": "Dental care or dentalcare is the maintenance of healthy teeth and may refer to: Oral hygiene, the professional care of teeth, including professional oral hygiene and dental surgery.",
+        "rating": 4.5,
+        "price": 9000
     },
     {
-        "image": "https://ibb.co/86z85dr",
-        "sName": "Teth Scalling 2",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 5
+        "image": "https://i.ibb.co/DWPqKJP/3.png",
+        "sName": "Apollo Dental Associates",
+        "description": "Normally the body's natural defenses and good oral health care, such as daily brushing and flossing, keep bacteria under control. However, without proper oral hygiene, such as tooth decay and gum disease.",
+        "rating": 4,
+        "price": 1600
     },
     {
-        "image": "https://ibb.co/F3kP7rk",
-        "sName": "Teth Scalling 3",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 4
+        "image": "https://i.ibb.co/LvRj5Pj/10.png",
+        "sName": "Soft Touch Dental Practice",
+        "description": "Health issues such as diabetes can also affect your oral health. Regular brushing, flossing, and dentist visits can help prevent disease in your mouth and the rest of your body.",
+        "rating": 5,
+        "price": 1500
     },
     {
-        "image": "https://ibb.co/NrkDgth",
-        "sName": "Teth Scalling 4",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 3.5
+        "image": "https://i.ibb.co/gZ7Rdsf/6.png",
+        "sName": "Sound Dental NYC",
+        "description": "Normally the body's natural defenses and good oral health care, such as daily brushing and flossing, keep bacteria under control. However, without proper oral hygiene, such as tooth decay and gum disease.",
+        "rating": 4.5,
+        "price": 1200
     },
     {
-        "image": "https://ibb.co/wM03K8V",
-        "sName": "Teth Scalling 1",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 4.5
+        "image": "https://i.ibb.co/dGW1QXF/5.png",
+        "sName": "Teth Scalling",
+        "description": "Health issues such as diabetes can also affect your oral health. Regular brushing, flossing, and dentist visits can help prevent disease in your mouth and the rest of your body.",
+        "rating": 3.5,
+        "price": 500
     },
     {
-        "image": "https://ibb.co/d4c5tnV",
-        "sName": "Teth Scalling 2",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 5
-    },
-    {
-        "image": "https://ibb.co/ZBRfFdB",
-        "sName": "Teth Scalling 3",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 4
-    },
-    {
-        "image": "https://ibb.co/FDMw7Pr",
-        "sName": "Teth Scalling 4",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 3.5
-    },
-    {
-        "image": "https://ibb.co/44xj4j2",
-        "sName": "Teth Scalling 3",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 4
-    },
-    {
-        "image": "https://ibb.co/XVL0840",
-        "sName": "Teth Scalling 4",
-        "description": "This is section Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis accusamus, atque assumenda ex minus natus recusandae explicabo qui quas nesciunt reiciendis provident iure quos inventore cumque quidem tempora laudantium fugit.",
-        "rating": 3.5
+        "image": "https://i.ibb.co/Mcygtnc/7.png",
+        "sName": "Tooth & Gum Dental",
+        "description": "Gum disease or periodontal disease may cause loss of teeth, infections and other complications. In addition to complications for your teeth and gums, strokes, diabetes complications and respiratory issues.",
+        "rating": 4,
+        "price": 6500
     }
 ]
